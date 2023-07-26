@@ -17,6 +17,7 @@ The following key findings were discovered during the data exploration phase by 
 
 By incorporating these findings into model development, we can ensure that the resulting model captures the important features that contribute to creditworthiness and provides more precise predictions on customers’ credit scores. <br />
 The interesting findings in modelling and assessing phase are described below. <br />
+
 4. From the decision tree model, variables with the highest important values are interest rate, credit mix and the month. These variables demonstrate a stronger influence on the model’s prediction compared to others. However, it should not be treated as a general statement about the variable importance in the real world.<br />
 5. In the decision tree model, the interest rate is selected as the root node as it has the highest level of information gain. In terms of splitting, total EMI per month has the highest splitting number, which indicates that the tree considers total EMI per month most informative and has highest discriminatory power for making splits in the data.<br />
 
